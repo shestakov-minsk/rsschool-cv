@@ -1,63 +1,62 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  
-  html {
-    font-size: 10px;
-  }
-  
-  body {
-    min-height: 100vh;
-    font-family: Cambria, Cochin, serif;
-    font-size: 1.6rem;
-    background-color: black;
-    color: lightyellow;
-  }
-  
-  ul {
-    list-style: none;
-  }
-  
-  section {
-    padding: 1rem;
-  }
-  
-  .main {
-    font-size: 2rem;
-    text-align: center;
-    background-color: black;
-  }
-  
-  .wrapper {
-    width: 500px;
-    margin: 20px auto;
-    text-align: center;
-    border: 10px solid lightyellow;
-    background-color: black;
-  }
-  
-  .avatar {
-    width: 200px;
-    height: 200px;
-    margin: 10px auto;
-    border-radius: 50%;
-    overflow: hidden;
-    border: 5px solid rgb(24, 24, 24);
-  }
-  
-  a:link {
-    color: rgb(59, 164, 196);
-    border-bottom: cornflowerblue;
-  }
-  
-  a:visited {
-    color: indigo;
-    border-bottom: cornflowerblue;
-  }
-  
-  a:hover {
-    color: brown;
-    border-bottom: cornflowerblue;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  min-height: 100vh;
+  font-family: Cambria, Cochin, serif;
+  font-size: 1.6rem;
+  background-color: black;
+  color: lightyellow;
+}
+
+ul {
+  list-style: none;
+}
+
+section {
+  padding: 1rem;
+}
+
+.main {
+  font-size: 2rem;
+  text-align: center;
+  background-color: black;
+}
+
+.wrapper {
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  border: 10px solid lightyellow;
+  background-color: black;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  margin: 10px auto;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 5px solid rgb(24, 24, 24);
+}
+
+a:link {
+  color: rgb(59, 164, 196);
+  border-bottom: cornflowerblue;
+}
+
+a:visited {
+  color: indigo;
+  border-bottom: cornflowerblue;
+}
+
+a:hover {
+  color: brown;
+  border-bottom: cornflowerblue;
+}
